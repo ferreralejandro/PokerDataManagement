@@ -1,0 +1,1 @@
+Talks about the bankroll, how we should treat it and take care of it, its the most important part for us poker players. I heard it from Daniel Negreanu. [[Growing 

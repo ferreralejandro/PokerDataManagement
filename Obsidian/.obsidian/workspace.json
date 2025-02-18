@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "7ddb31a80cd5ceb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e0948bda35e76af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bf1a0c1e7988771",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "THEORY/6MAX-GTO-CHARTS/RFI/BTN - RFI.png"
+              },
+              "icon": "lucide-image",
+              "title": "BTN - RFI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "474f7d24bf946e0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bef8eb6ae76b6e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21528d895b977769",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "39b66dd17b63bee7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "4-bet",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ead099a57aec2748",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "408a0a9ec54b757a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd360cc1d01511ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a863536a63dd3bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "fd1ce6223c62e7f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "cdd06efc8ce141e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0e1bc9dd7d33e9d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3bf1a0c1e7988771",
+  "lastOpenFiles": [
+    "THEORY/6MAX-GTO-CHARTS/B vs B/BB vs SB R.png",
+    "THEORY/6MAX-GTO-CHARTS/vs RFI - IP/BTN vs LJ RFI - IP.png",
+    "THEORY/6MAX-GTO-CHARTS/vs RFI - IP/HJ vs LJ RFI - IP.png",
+    "THEORY/6MAX-GTO-CHARTS/vs RFI - IP/CO vs LJ RFI - IP.png",
+    "THEORY/6MAX-GTO-CHARTS/vs RFI - IP/CO vs HJ RFI - IP.png",
+    "THEORY/6MAX-GTO-CHARTS/RFI/LJ - RFI.png",
+    "THEORY/6MAX-GTO-CHARTS/RFI/HJ - RFI.png",
+    "THEORY/6MAX-GTO-CHARTS/RFI/CO - RFI.png",
+    "THEORY/6MAX-GTO-CHARTS/RFI/SB - RFI.png",
+    "THEORY/6MAX-GTO-CHARTS/B vs B/SB.png",
+    "THEORY/6MAX-GTO-CHARTS/vs RFI - OOP/BB vs BTN RFI - OOP.png",
+    "THEORY/GLOSSARY/X/When You Get 3-bet.md",
+    "THEORY/GLOSSARY/Player Types/NIT.md",
+    "THEORY/ADVANCED CONCEPTS & EXPLOITATION/Exploitative Play/Beating Nits, TAGs, LAGs & Maniacs.md",
+    "THEORY/GLOSSARY/Player Types/TAG.md",
+    "THEORY/ADVANCED CONCEPTS & EXPLOITATION/Exploitative Play/Adjustments for Fish & Short Stackers.md",
+    "THEORY/CORE POKER THEORY/Mathematics & Fundamentals/Pot Odds.md",
+    "THEORY/PRE-FLOP/4-Bet & 5-Bet Pots/4-Bet Bluffing Frequencies.md",
+    "THEORY/GLOSSARY/X/4-Bet.md",
+    "Exercises Preflop.md",
+    "THEORY/6MAX-GTO-CHARTS/Sizing and Adjustments.md",
+    "THEORY/GLOSSARY/X/Squeeze.md",
+    "THEORY/GLOSSARY/X/Semi-Bluff.md",
+    "THEORY/GLOSSARY/X/RFI.md",
+    "THEORY/CORE POKER THEORY/Mathematics & Fundamentals/IP Pot Share.md",
+    "THEORY/Untitled.md",
+    "THEORY/GLOSSARY/X/Deepstack.md",
+    "THEORY/6MAX-GTO-CHARTS/Decision Flowcharts.md",
+    "THEORY/GLOSSARY/X/Web for Study Maths of Poker.md",
+    "THEORY/GLOSSARY/X/When Facing Limpers.md",
+    "THEORY",
+    "THEORY/CORE POKER THEORY/Mathematics & Fundamentals/Odds in Poker.md",
+    "THEORY/CORE POKER THEORY/Mathematics & Fundamentals/Blockers.md",
+    "THEORY/CORE POKER THEORY/Mathematics & Fundamentals/Combinatorics.md",
+    "THEORY/CORE POKER THEORY/Mathematics & Fundamentals/Stack-to-Pot Ratio (SPR).md",
+    "THEORY/GLOSSARY/Streets/Flop.md",
+    "TARGET/W1.md",
+    "TARGET",
+    "THEORY/DOCS/turn-c-betting-decision-flowchart.pdf",
+    "THEORY/DOCS/facing-a-bet-decision-flowchart.pdf",
+    "THEORY/DOCS/turn-probe-decision-chart.pdf",
+    "THEORY/DOCS/flop-c-betting-decision-flowchart.pdf",
+    "THEORY/DOCS/The Mental Game of Poker_ Proven Strategies For Improving Tilt Control, Confidence, Motivation, Coping with Variance, and More   ( PDFDrive ).pdf",
+    "THEORY/DOCS/The Mental Game of Poker_ Proven Strategies For Improving Tilt Control, Confidence, Motivation, Coping with Variance, and More   ( PDFDrive ).pdf",
+    "THEORY/DOCS/Modern Poker Theory.pdf",
+    "THEORY/BOOKS",
+    "Untitled.canvas"
+  ]
+}
