@@ -1,0 +1,1 @@
+![[vs Cold 4B.png]]

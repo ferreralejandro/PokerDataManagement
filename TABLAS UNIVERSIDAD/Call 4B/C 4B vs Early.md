@@ -1,0 +1,1 @@
+![[C 4B vs Early.png]]
