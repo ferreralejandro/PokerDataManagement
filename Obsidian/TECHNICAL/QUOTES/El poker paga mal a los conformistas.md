@@ -1,1 +1,0 @@
-I heard it from an spanish professional poker player, ZerosPoker, and indeed, he is completely right, we do not want to share our money, we need to push our boundaries.

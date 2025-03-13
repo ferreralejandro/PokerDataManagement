@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/TECHNICAL/BOOKS/Modern Poker Theory.md",
+                "file": "Obsidian/TECHNICAL/BOOKS/Jonathan Little Books.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modern Poker Theory"
+              "title": "Jonathan Little Books"
+            }
+          },
+          {
+            "id": "65b6e5157f2feed6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,12 +178,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4094f1057e769ad1",
+  "active": "65b6e5157f2feed6",
   "lastOpenFiles": [
-    "Obsidian/TECHNICAL/BOOKS/Jonathan Little Books.md",
-    "Obsidian/TECHNICAL/BOOKS/Modern Poker Theory.md",
     "Obsidian/TECHNICAL/DOCS/6MAX-GTO-CHARTS - Jonathan Little/B vs B/BB vs SB R.png",
+    "Obsidian/TECHNICAL/DOCS/6MAX-GTO-CHARTS - Jonathan Little/B vs B/BB vs SB L.png",
+    "Obsidian/TECHNICAL/BOOKS/Jonathan Little Books.md",
     "Obsidian/TECHNICAL/FLOPZILLA/Explotando debilidades PF.png",
+    "Obsidian/MENTAL/Mental Game of Poker.md",
+    "Obsidian/TECHNICAL/BOOKS/Modern Poker Theory.md",
     "Obsidian/METHODOLOGY",
     "Obsidian/MENTAL",
     "Obsidian/TECHNICAL/TABLAS UNIVERSIDAD/ROL/BTN - ROL.md",
@@ -195,8 +210,6 @@
     "Obsidian/TECHNICAL/TABLAS UNIVERSIDAD/4b/4B.md",
     "Obsidian/TECHNICAL/TABLAS UNIVERSIDAD/3B/3b vs Late.md",
     "Obsidian/TECHNICAL/TABLAS UNIVERSIDAD/3B/3B vs Early.md",
-    "Obsidian/TECHNICAL/TABLAS UNIVERSIDAD/3B/3B vs All-in Loose.md",
-    "Obsidian/TECHNICAL/TABLAS UNIVERSIDAD/3B/3B vs All-in.md",
     "Obsidian/TECHNICAL/SOFTWARES",
     "Obsidian/TECHNICAL/DOCS/Call 5B Loose.png",
     "Obsidian/TECHNICAL/DOCS/Call 5B.png",
